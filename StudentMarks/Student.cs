@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace StudentMarks
+// Student class to hold student details and calculate total and average marks
 {
     public class Student
     {
